@@ -5,3 +5,5 @@
 ### Проект доступен по ссылке
 
 ## https://covid-19-tracker-puce.vercel.app/
+
+Используемые технологии: React, React-material-ui, React-chartjs, Axios
