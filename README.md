@@ -1,9 +1,9 @@
 ## Трекер COVID-19 с использованием библиотеки React и открытого API
 
-### API - https://covid19.mathdro.id/api
+COVID-19 трекек, который берет информацию из открытого API - https://covid19.mathdro.id/api
+и представляет данные в виде карточек и Графиков. Имеется 3 компонента: Карточки, Выбор страны и График.
+Данные меняются и отрисовываются в зависимости от страны.
 
-### Проект доступен по ссылке
-
-## https://covid-19-tracker-puce.vercel.app/
+Проект доступен по ссылке https://covid-19-tracker-puce.vercel.app/
 
 Используемые технологии: React, React-material-ui, React-chartjs, Axios
